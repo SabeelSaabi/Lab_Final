@@ -2,7 +2,7 @@ package pk.cui.sc.labfinal.calculator;
 
 public class Calculator {
 	/***
-	 * This method find maximum in three inetger
+	 * This method find maximum from three inetger
 	 * @param num1 the first integer
 	 * @param num2 the second integer
 	 * @param num3 the third integer
@@ -37,7 +37,7 @@ public class Calculator {
 		  return result;
 	  } 
 	  /***
-	   * this method takes an integer 
+	   * this method takes an integer and calculate cube of it 
 	   * @param num the input integer
 	   * @return the cube of input integer
 	   */
